@@ -1,3 +1,3 @@
 puts <<-MSG
-  this is a working feature!!
+  this is still a working feature!!
 MSG
