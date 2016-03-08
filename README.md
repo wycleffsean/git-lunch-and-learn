@@ -9,3 +9,11 @@
 7. Viewing Changes
 8. Patching and Merging
 9. Debugging
+  - `git grep`
+
+  - `git merge-base <commit1> <commit2>`
+
+  - `git bisect`
+    - start
+    - good/bad
+    - reset
