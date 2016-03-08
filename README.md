@@ -8,4 +8,18 @@
 6. Publishing Changes
 7. Viewing Changes
 8. Patching and Merging
+
+  - http://www.wei-wang.com/ExplainGitWithD3
+
+  - Patching on top of history
+    - `git merge` combine branches
+    - `git revert` undo a commit
+    - `git cherry-pick` copy a commit
+
+  - `git rebase` ALTERS HISTORY
+    - `git rebase -i --autosquash` for use with
+        git commit --squash and --fixup
+    - common options
+      - `git rebase -i`
+
 9. Debugging
